@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Website UI (HTML & CSS)
 
 ## Description
@@ -79,3 +80,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 Explore the "E-commerce Website UI" and immerse yourself in its aesthetic allure, envisioning the possibilities of a fully interactive and seamless online shopping journey.
 
 
+=======
+# motion-cut
+>>>>>>> b7461c03608473bb6844ca45aec4083bca9d9b6a
